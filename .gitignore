@@ -1,0 +1,11 @@
+# Ignore raw datasets
+dataset/*.csv
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+# Logs
+*.log
+# Local venv
+.venv/
+env/
+dataset_1 985 rows.csv
